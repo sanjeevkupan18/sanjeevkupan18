@@ -122,10 +122,10 @@ fun_fact: I love to Dance 💃 and eat Rasogullas 🍮
 
 | Project | Description | Tech Stack | Links |
 |:--------|:------------|:-----------|:------|
-| **🎓 Final Year Project** | Currently in development — full stack application with a data-driven core. | `React` `Node.js` `MongoDB` | [Repo](https://github.com/sanjeevkupan18) |
-| **🛒 Project Two** | Replace with your project description — what problem it solves and why it matters. | `React` `Express` `MySQL` | [Repo](https://github.com/sanjeevkupan18) · [Live](#) |
-| **📊 Data Analysis Project** | Exploratory data analysis and dashboards built from a real-world dataset. | `Python` `Pandas` `Tableau` | [Repo](https://github.com/sanjeevkupan18) |
-| **🎨 Portfolio Website** | Personal portfolio showcasing work, skills and contact details. | `HTML` `CSS` `JS` | [Repo](https://github.com/sanjeevkupan18) · [Live](#) |
+| **🎓 Final Year Project** | Currently in development . | `React` `Node.js` `MongoDB` | [Repo](https://github.com/sanjeevkupan18) |
+| **🛒 DailyFlow** | A Smart Progress Tracker and Analyzer Web App . | `React` `Express` `MongoDB` `Node` | [Repo](https://daily-flow-tau.vercel.app/) · [Live](#) |
+| **📊 Student Depression Data Analysis Project** | Exploratory data analysis and dashboards built from a real-world dataset. | `Python` `Pandas` `Tableau` | [Repo](https://github.com/sanjeevkupan18/Student-Depression-Dataset-Analysis) |
+| **🎨 Portfolio Website** | Personal portfolio showcasing work, skills and contact details. | `React` `Express` `MongoDB` | [Repo](https://sanjucodingportfolio.vercel.app/) · [Live](#) |
 
 <br/>
 
