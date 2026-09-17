@@ -135,7 +135,6 @@ fun_fact: I love to Dance 💃 and eat Rasogullas 🍮
 
 </div>
 
-> 💡 *Swap the placeholder rows above with your real repos — pinned projects plus this table makes a strong first impression.*
 
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> GitHub Statistics
